@@ -1,8 +1,7 @@
 
 // settings:
 const _spec = {
-  //maskURL: 'assets/foolMask.glb',
-  maskURL: 'assets/VU298_Snowman_Mask.glb',
+  maskURL: 'assets/foolMask.glb',
   maskARMetadataURL: 'assets/foolMaskARMetadata.json',
 
   occluderURL: 'assets/occluder.glb',
