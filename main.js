@@ -9,7 +9,7 @@ const _spec = {
   occluderDebug: false,
  
   // debug flags:
-  debugCube: false //display a cube tracking the head
+  debugCube: !false //display a cube tracking the head
 }
 
 let _threeInstances = null;
